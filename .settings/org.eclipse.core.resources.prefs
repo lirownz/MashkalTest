@@ -1,4 +1,11 @@
 eclipse.preferences.version=1
-encoding//src/mashkal/footerContactUs.java=UTF-8
-encoding//src/mashkal/ourTendersForm.java=UTF-8
-encoding//src/mashkal/questionForm.java=UTF-8
+encoding//src/FormsLoadTest/Compain.java=UTF-8
+encoding//src/FormsLoadTest/Mutzar.java=UTF-8
+encoding//src/prodSanityTests/prodFooterSanity.java=UTF-8
+encoding//src/prodSanityTests/prodHeaderSanity.java=UTF-8
+encoding//src/sitePagesTest/footerContactUs.java=UTF-8
+encoding//src/sitePagesTest/ourTendersForm.java=UTF-8
+encoding//src/sitePagesTest/questionForm.java=UTF-8
+encoding//src/sitePagesTest/textCompering.java=UTF-8
+encoding//src/testSanityTests/testFooterSanity.java=UTF-8
+encoding//src/testSanityTests/testHeaderSanity.java=UTF-8
